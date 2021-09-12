@@ -1,16 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 19 10:44:54 2021
 
-@author: 16478
-"""
-"""def real_imag_conj(val):
-    return val.real, val.imag, val.conjugate()
-
-    r, i, c=real_imag_conj(3+4j)
-    print(r, i, c)
-
-  """
 # Python script to scrape an article given the url of the article and store the extracted text in a file
 # Url: https://medium.com/@subashgandyer/papa-what-is-a-neural-network-c5e5cc427c7
 
